@@ -1,0 +1,24 @@
+.registrasi-box {
+  width: 560px;
+  margin: 7% auto;
+}
+@media (max-width: 768px) {
+  .registrasi-box {
+    width: 90%;
+    margin-top: 20px;
+  }
+}
+.registrasi-box-body {
+  background: #fff;
+  padding: 20px;
+  border-top: 0;
+  color: #666;
+}
+.registrasi-box-body .form-control-feedback {
+  color: #777;
+}
+.registrasi-box-msg {
+  margin: 0;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
